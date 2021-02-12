@@ -56,10 +56,19 @@
   }
 
   .card {
-    width: 300px;
+    width: 360px;
     height: 200px;
-    margin: 10px;
+    margin: 37px 10px 27px 0px;
     background-color: gray;
     flex-shrink: 0;
+    position:relative;
+    .text-content {
+      position: absolute;
+      top: 83%;
+      height: 63px;
+      background: #96EDBA;
+      left: 24px;
+      width: 109px;
+    }
   }
 }

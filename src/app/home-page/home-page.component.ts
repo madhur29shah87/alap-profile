@@ -13,12 +13,7 @@ export class HomePageComponent implements OnInit {
   constructor(private httpClient: HttpClient) { }
 
   ngOnInit(): void {
-    this.httpClient.get("assets/stub/work.json").subscribe((data): any => {
-      if (data) {
-        this.latestCards = data['latestWork'];
-        this.workCards = data['work'];
-      }
-    })
+    
   }
 
 }
