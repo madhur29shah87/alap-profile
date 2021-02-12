@@ -1,0 +1,36 @@
+
+{
+  "airpotPage": {
+    "row1": [
+      {
+        "type":"title",
+        "content":"xyz",
+        "column":"4",
+        "paragraph":"s"
+      },
+      {
+        "type":"image",
+        "content":"imageurl",
+        "column":"8"
+      }
+    ],
+    "row2": [
+      {
+        "type":"title",
+        "content":"xyz",
+        "column":"4",
+        "paragraph":"s"
+      },
+      {
+        "type":"image1",
+        "content":"imageurl",
+        "column":"4"
+      },
+      {
+        "type":"image2",
+        "content":"imageurl",
+        "column":"4"
+      }
+    ]
+  }
+}

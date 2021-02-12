@@ -1,0 +1,79 @@
+{
+  "latestWork": [{
+      "cardImage": "url1",
+      "cardTitle": "AR Frame",
+      "cardTextColor": ""
+    },
+    {
+      "cardImage": "url1",
+      "cardTitle": "Zalando FDB",
+      "cardTextColor": ""
+    },
+    {
+      "cardImage": "url1",
+      "cardTitle": "Faceless",
+      "cardTextColor": ""
+    },
+    {
+      "cardImage": "url1",
+      "cardTitle": "One Page",
+      "cardTextColor": ""
+    },
+    {
+      "cardImage": "url1",
+      "cardTitle": "AR Coffee shop",
+      "cardTextColor": ""
+    },
+    {
+      "cardImage": "url1",
+      "cardTitle": "Bicycle",
+      "cardTextColor": ""
+    },
+    {
+      "cardImage": "url1",
+      "cardTitle": "AR Clock",
+      "cardTextColor": ""
+    },
+    {
+      "cardImage": "url1",
+      "cardTitle": "Replace cars",
+      "cardTextColor": ""
+    }
+  ],
+  "work": [{
+      "cardImage": "url1",
+      "cardTitle": "Zalando FDB",
+      "cardTextColor": ""
+    },
+    {
+      "cardImage": "url1",
+      "cardTitle": "Zalando S&B",
+      "cardTextColor": ""
+    },
+    {
+      "cardImage": "url1",
+      "cardTitle": "Honeywell Maxpro",
+      "cardTextColor": ""
+    },
+    {
+      "cardImage": "url1",
+      "cardTitle": "Honeywell Airports",
+      "cardTextColor": ""
+    },
+    {
+      "cardImage": "url1",
+      "cardTitle": "Intuit",
+      "cardTextColor": ""
+    },
+    {
+      "cardImage": "url1",
+      "cardTitle": "Honeywell Others",
+      "cardTextColor": ""
+    },
+    {
+      "cardImage": "url1",
+      "cardTitle": "AR Clock",
+      "cardTextColor": ""
+    }
+  ]
+}

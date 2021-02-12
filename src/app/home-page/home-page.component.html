@@ -1,0 +1,23 @@
+<div class="home-container">
+  <div class="title-content">
+    <span> Hallo!! </span>
+    <span> I'am Alap Product designer </span>
+  </div>
+  <div class="main-body">
+    <mat-tab-group>
+      <mat-tab label="Latest" >
+        <div class="cards-container" >
+          <div class="card" *ngFor="let card of latestCards"></div>
+        </div>
+      </mat-tab>
+      <mat-tab label="Work">
+        <div class="cards-container">
+          <div class="card" *ngFor="let workcard of workCards"></div>
+        </div>
+      </mat-tab>
+      <mat-tab label="Experiments"> Experiments </mat-tab>
+      <mat-tab label="Projects"> Projects </mat-tab>
+      <mat-tab label="Me"> Me </mat-tab>
+    </mat-tab-group>
+  </div>
+</div>
